@@ -1,5 +1,7 @@
 # Front End Engineering Challenge
 
+<img src="splash.jpg">
+
 GA is designing a new site for K-12 learners to access GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. 
 
 ## Requirements:
@@ -22,4 +24,7 @@ GA is designing a new site for K-12 learners to access GA courses and content. U
 - Use the following colors   
 	- Page background: #FFFFFF    
 	- Default/normal font color: #494949   
-	- Navbar background: #83EDD9   
+	- Navbar background: #83EDD9  
+
+
+##    
